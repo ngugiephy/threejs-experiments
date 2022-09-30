@@ -6,5 +6,8 @@ In this repo, I document my journey through learning about, and building interac
 
 ## Experiments
 
-- [Rotating Ball](./rotating_ball/)
-- [Three.js with Blender](./blender_threejs/)
+- [Rotating Ball](./1_rotating_ball/)
+- [Three.js with Blender](./2_blender_threejs/)
+- [3D Terrain](./3_3d_terrain/)
+- [Raspberry Pi pico Documentation](./4_pico-w/)
+- [Smooth scrolling and Raycasting](./5_smooth_scroll_raycasting/)
